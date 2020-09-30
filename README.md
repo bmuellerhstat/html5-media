@@ -6,7 +6,7 @@ _The purpose of this repository is to help you practice using_ `<audio>` _and_ `
 Observe the files in this repo:  
 
 * `README.md` is the file you're reading.  You should be reading it on GitHub.
-* `birds.mp3` is the audio file you will be using.
+* `birds.mp3` is the audio file that you will use.
 * `hans-rosling.jpg` is the image you will be using as the poster for the video.
 * `index.html` is where you will be doing your coding.
 * `result.png` is the result you should be aiming for with `index.html`.
