@@ -1,4 +1,4 @@
-# HTML5 Media
+#  Amazing HTML5 Media
 ---
 _The purpose of this repository is to help you practice using_ `<audio>` _and_ `<video>` _elements._
 
