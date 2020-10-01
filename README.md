@@ -28,4 +28,4 @@ Observe the files in this repo:
   * _NOTE: the cloud9 keyboard shortcut is_ `⌘+shift+B`
 * After you push your changes, set gh-pages to use the **master** branch and use the URL to check that it worked!
 
-Good luck!
+Good luck!..
